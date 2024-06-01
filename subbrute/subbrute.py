@@ -3,6 +3,7 @@
 #SubBrute v1.2
 #A (very) fast subdomain enumeration tool.
 #
+#Fork Program by thereeldj
 #Maintained by rook
 #Contributors:
 #JordanMilne, KxCode, rc0r, memoryprint, ppaulojr  
